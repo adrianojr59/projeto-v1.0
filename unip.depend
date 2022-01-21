@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634220569 source:f:\projeto unip pin 3\unip\main.c
+	<stdio.h>
+	<stdlib.h>
+
